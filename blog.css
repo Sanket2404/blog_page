@@ -713,16 +713,16 @@ margin-left: 8.5rem;
 #read{
     font-size: 19.5px;
     word-spacing: 1.877px;
-    margin-top: 1.8rem;
+    margin-top: 1.3rem;
     padding-left: 1.2rem;
 }
 .tex{
     margin-top:6rem;
-    height:85vh;
+    height:83.5vh;
 }
 .tex1{
     /* margin-top: -2rem; */
-    height: 85vh;
+    height: 83.5vh;
 }
 #s_img1{
     width: 92vw;
@@ -748,7 +748,7 @@ margin-left: 8.5rem;
 #read1{
     font-size: 19.5px;
     word-spacing: 1.877px;
-    margin-top: 1.8rem;
+    margin-top: 1.3rem;
     padding-left: 1.2rem;
 }
 #s_img2{
@@ -775,12 +775,12 @@ margin-left: 8.5rem;
 #read2{
     font-size: 19.5px;
     word-spacing: 1.877px;
-    margin-top: 1.8rem;
+    margin-top: 1.3rem;
     padding-left: 1.2rem;
 }
 .tex2{
     /* margin-top: -2rem; */
-    height: 85vh;
+    height: 83.5vh;
 }
 #s_img3{
     width:92vw;
@@ -806,12 +806,12 @@ margin-left: 8.5rem;
 #read3{
     font-size: 19.5px;
     word-spacing: 1.877px;
-    margin-top: 1.8rem;
+    margin-top: 1.3rem;
     padding-left: 1.2rem;
 }
 .tex3{
     /* margin-top: -2rem; */
-    height: 85vh;
+    height: 83.5vh;
 }
 #s_img4{
     width: 92vw;
@@ -837,12 +837,12 @@ margin-left: 8.5rem;
 #read4{
     font-size: 19.5px;
     word-spacing: 1.877px;
-    margin-top: 1.8rem;
+    margin-top: 1.3rem;
     padding-left: 1.2rem;
 }
 .tex4{
     /* margin-top: -2rem; */
-    height: 76vh;
+    height: 78vh;
 } 
 
 #search{
@@ -900,8 +900,8 @@ margin-top:64.5rem;
 /* footer */
 
 #foot{
-    margin-top: 64.5rem;    
-    height:155vh;
+    margin-top: 60.5rem;    
+    height:150vh;
 }
 .logo img{
 margin-top: 4rem;
