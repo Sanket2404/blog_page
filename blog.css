@@ -846,7 +846,7 @@ margin-left: 8.5rem;
 }    
 #search{
     width:20rem;
-    margin-top: 168.5rem;
+    margin-top: 169.5rem;
     margin-right: 1.65rem;
 }
 #icon{
@@ -859,7 +859,7 @@ border-radius: 5px;
 height: 46vh;
 position: absolute;
 right: 19.5%;
-margin-top: 174rem;
+margin-top: 175.3rem;
 }
 #s_h3{
 position: relative;
@@ -884,15 +884,13 @@ margin-left: 1.8rem;
 padding-left: 6rem;
 }
 .s_box1{
-margin-top:195.5rem;
-}
-.s_box1{
+margin-top:196.5rem;
 width: 78.5%;
 height:40vh;
 right: 19.5%;
 }
 .s_box2{
-margin-top: 214.5rem;
+margin-top: 215rem;
 width: 78.5%;
 height:31vh;
 right: 19.5%;
@@ -995,6 +993,6 @@ width: 15rem;
 #s_hr{
 width: 80%;
 margin-left: 2.5rem;
-margin-top: -2rem;
+margin-top: -1rem;
 }
 }
