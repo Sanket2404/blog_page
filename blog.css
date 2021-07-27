@@ -718,11 +718,11 @@ margin-left: 8.5rem;
 }
 .tex{
     margin-top:6rem;
-    height:83.5vh;
+    height:81vh;
 }
 .tex1{
     /* margin-top: -2rem; */
-    height: 83.5vh;
+    height: 81vh;
 }
 #s_img1{
     width: 92vw;
@@ -780,7 +780,7 @@ margin-left: 8.5rem;
 }
 .tex2{
     /* margin-top: -2rem; */
-    height: 83.5vh;
+    height: 81vh;
 }
 #s_img3{
     width:92vw;
@@ -811,7 +811,7 @@ margin-left: 8.5rem;
 }
 .tex3{
     /* margin-top: -2rem; */
-    height: 83.5vh;
+    height: 81vh;
 }
 #s_img4{
     width: 92vw;
@@ -844,7 +844,9 @@ margin-left: 8.5rem;
     /* margin-top: -2rem; */
     height: 78vh;
 } 
-
+.s_bo{
+     margin-top: 3rem;
+}
 #search{
     width:23.5rem;
     margin-top: 180.5rem;
@@ -900,8 +902,8 @@ margin-top:64.5rem;
 /* footer */
 
 #foot{
-    margin-top: 60.5rem;    
-    height:150vh;
+    margin-top: 57.5rem;    
+    height:140vh;
 }
 .logo img{
 margin-top: 4rem;
