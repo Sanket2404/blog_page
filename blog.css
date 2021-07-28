@@ -716,10 +716,10 @@ margin-left: 8.5rem;
 }
 .tex{
     margin-top:4rem;
-    height:81vh;
+    height:82vh;
 }
 .tex1{
-    height: 81vh;
+    height: 82vh;
 }
 #s_img1{
     width: 92vw;
@@ -774,7 +774,7 @@ margin-left: 8.5rem;
     padding-left: 1.2rem;
 }
 .tex2{
-    height: 81vh;
+    height: 82vh;
 }
 #s_img3{
     width:92vw;
@@ -804,8 +804,7 @@ margin-left: 8.5rem;
     padding-left: 1.2rem;
 }
 .tex3{
-    /* margin-top: -2rem; */
-    height: 81vh;
+    height: 82vh;
 }
 #s_img4{
     width: 92vw;
@@ -835,29 +834,27 @@ margin-left: 8.5rem;
     padding-left: 1.2rem;
 }
 .tex4{
-    /* margin-top: -2rem; */
     height: 78vh;
 } 
 .s_bo{
      margin-top: 3rem;
 }
 #search{
-    width:23.5rem;
-    margin-top: 180.5rem;
-   left: .7rem;
+    width:22.8rem;
+    margin-top: 170rem;
+   left: 1.0rem;
 }
 #icon{
     display:none;
 }
 .s_box{
 width: 91.5%;
-height: 48vh;
+height: 47vh;
 right: 4.5%;
-margin-top: 186.3rem;
+margin-top: 176.5rem;
 }
 #s_h3{
 position: relative;
-/* left: -1rem;  */
 }
 #post_im{
 margin-left: 2.5rem;
@@ -878,26 +875,23 @@ margin-left: 2.5rem;
 padding-left: 6.8rem;
 }
 .s_box1{
-margin-top:208.5rem;
+margin-top:199rem;
 width: 91.5%;
-height:41vh;
+height:37vh;
 right: 4.5%;
 }
 .s_box2{
-margin-top: 227.6rem;
+margin-top: 217.3rem;
 width: 91.5%;
-height:31vh;
+height:28vh;
 right: 4.5%;
 }
-/* .parent1{
-margin-top:64.5rem;
-} */
 
 /* footer */
 
 #foot{
-    margin-top: 57.5rem;    
-    height:140vh;
+    margin-top: 60.5rem;    
+    height:150vh;
 }
 .logo img{
 margin-top: 4rem;
@@ -988,6 +982,6 @@ width: 15rem;
 #s_hr{
 width: 80%;
 margin-left: 2.5rem;
-margin-top: -4rem;
+margin-top: -4.5rem;
 }
 }
