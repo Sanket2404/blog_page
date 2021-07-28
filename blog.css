@@ -669,7 +669,6 @@ color: black;
 }
 #s_hr{
 width: 80%;
-
 color: gray;
 margin-left: 8.5rem;
 }
@@ -678,22 +677,21 @@ margin-left: 8.5rem;
 @media screen and (max-width:480px){
 
 .head-section{
-    width: 82%;
+    width: 100%;
     background-size: cover;
-    height: 50vh;
+    height: 53vh;
 }
 .head-contain h2{
-    padding-top: 6rem;
-    font-size: 55px;
+    padding-top: 4rem;
+    font-size: 59px;
 }
 .head-contain h6{
-    font-size: 12px;
+    font-size: 14px;
 }
 #s_img{
     width: 92vw;
     height: 32vh;
     margin-left: 1rem;
-    border-radius:10px;
     margin-top: -2rem;
 }
 #he{
@@ -717,18 +715,16 @@ margin-left: 8.5rem;
     padding-left: 1.2rem;
 }
 .tex{
-    margin-top:6rem;
+    margin-top:4rem;
     height:81vh;
 }
 .tex1{
-    /* margin-top: -2rem; */
     height: 81vh;
 }
 #s_img1{
     width: 92vw;
     height: 32vh;
     margin-left: 1rem;
-    border-radius:10px;
     margin-top: -2rem;
 }
 #he1{
@@ -755,7 +751,6 @@ margin-left: 8.5rem;
     width: 92vw;
     height: 32vh;
     margin-left: 1rem;
-    border-radius:10px;
     margin-top: -2rem;
 }
 #he2{
@@ -779,7 +774,6 @@ margin-left: 8.5rem;
     padding-left: 1.2rem;
 }
 .tex2{
-    /* margin-top: -2rem; */
     height: 81vh;
 }
 #s_img3{
