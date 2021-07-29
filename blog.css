@@ -272,12 +272,12 @@
     color: orange;
     text-decoration:underline dashed black;
 }
-
-
+#foot{
+    margin-top: -2rem;
+}
 /* footer section */
 .logos{
 display: flex;
-
 margin-top: 3rem;
 }
 .facebook,.instagram,.twitter,.pinterest{
@@ -672,6 +672,7 @@ width: 80%;
 color: gray;
 margin-left: 8.5rem;
 }
+
 /* responsive */
 
 @media screen and (max-width:480px){
@@ -841,7 +842,7 @@ margin-left: 8.5rem;
 }
 #search{
     width:22.8rem;
-    margin-top: 180rem;
+    margin-top: 180.5rem;
    left: 1.0rem;
 }
 #icon{
@@ -851,7 +852,7 @@ margin-left: 8.5rem;
 width: 91.5%;
 height: 47vh;
 right: 4.5%;
-margin-top: 185.5rem;
+margin-top: 186rem;
 }
 #s_h3{
 position: relative;
@@ -875,13 +876,13 @@ margin-left: 2.5rem;
 padding-left: 6.8rem;
 }
 .s_box1{
-margin-top:208.2rem;
+margin-top:209.7rem;
 width: 91.5%;
 height:37vh;
 right: 4.5%;
 }
 .s_box2{
-margin-top: 226.8rem;
+margin-top: 227.7rem;
 width: 91.5%;
 height:28vh;
 right: 4.5%;
@@ -890,8 +891,8 @@ right: 4.5%;
 /* footer */
 
 #foot{
-    margin-top: 60.5rem;    
-    height:138vh;
+    margin-top: 61.5rem;    
+    height:139vh;
 }
 .logo img{
 margin-top: 4rem;
